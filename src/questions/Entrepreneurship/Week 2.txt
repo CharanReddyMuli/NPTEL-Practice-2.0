@@ -1,0 +1,119 @@
+Q: Which stage comes immediately after Ideation in the broad stages of product development?
+A) Testing
+B) Validation
+C) Prototyping
+D) Commercialisation
+ANSWER: C
+EXPLANATION: Prototyping follows ideation, turning an initial idea into a model that can be tested and improved.
+
+Q: In MBTI personality typology, ENTJ is the:
+A) Rarest personality type that makes for highly effective leaders and CEOs
+B) Most commonly found personality type that makes for submissive officers
+C) Unique descriptor for product designers
+D) Indicator for rule-book bound CFOs and lawyers
+ANSWER: A
+EXPLANATION: ENTJ stands for Extraverted, Intuitive, Thinking, and Judging. It is often associated with leadership, although it is not the rarest MBTI type.
+
+Q: Kerr, S.P., W.R. Kerr & T. Xu in their paper, “Personality Traits of Entrepreneurs: A review of Recent Literature”, HBS Working Paper 18-047, November 2017 held that entrepreneurial characteristics are a part of:
+A) Individual training
+B) National culture
+C) Industrial development
+D) Global economy
+ANSWER: B
+EXPLANATION: The accepted answer in the provided quiz is national culture, reflecting the role of cultural context in entrepreneurship.
+
+Q: Entrepreneurial large-scale firms may succeed in creating:
+A) Self-delusion
+B) Conglomerates
+C) Excessive competition
+D) None of the above
+ANSWER: B
+EXPLANATION: Successful entrepreneurial firms can expand into multiple businesses and develop into conglomerates.
+
+Q: Compared with conventional entrepreneurs, start-up founders take additional risks primarily by:
+A) Experimenting with innovation and new business models
+B) Experimenting with employees
+C) Experimenting with public policy
+D) Experimenting with customers
+ANSWER: A
+EXPLANATION: Start-up founders often test innovative products, technologies, and business models under uncertainty.
+
+Q: The success of many start-ups such as RedBus, Swiggy, Airbnb, Uber and make my trip was based on:
+A) Treating demand and supply separately
+B) Focussing only on demand
+C) Focussing only on supply
+D) Aggregating and linking demand and supply digitally
+ANSWER: D
+EXPLANATION: These platforms digitally connect customers with service providers, helping match demand with supply.
+
+Q: Paperboat is an Indian startup that succeeded with a thematic grid that combined:
+A) Ethnic Indian beverages with Ethnic Indian packaging
+B) Global beverages with Ethnic Indian packaging
+C) Ethnic Indian beverages with Contemporary modern packaging
+D) Global beverages with Global packaging
+ANSWER: C
+EXPLANATION: Paper Boat combined traditional Indian drinks and flavours with contemporary packaging and branding.
+
+Q: The fundamental and the first step of design thinking is:
+A) Designing a product or service
+B) Empathising with the customer
+C) Prototyping
+D) Developing a market plan
+ANSWER: B
+EXPLANATION: Empathy helps designers understand users' needs, experiences, and problems before developing solutions.
+
+Q: A true design thinking and ideation exercise involves:
+A) Accepting the status quo
+B) Questioning the basics
+C) Relying on experts
+D) None of the above
+ANSWER: B
+EXPLANATION: Design thinking encourages challenging assumptions and exploring new ways to solve problems.
+
+Q: Which of the following is a serious ideation mistake?
+A) Lack of boundary
+B) Lack of predefined purpose
+C) Bias and closed-mindedness
+D) Imaginary constraints
+ANSWER: C
+EXPLANATION: Bias and closed-mindedness restrict creative thinking and prevent consideration of alternative ideas.
+
+Q: A bootcamp helps an entrepreneurial aspirant in:
+A) Train oneself in basic skills
+B) Create certain building blocks of a venture
+C) Experience and understand team dynamics
+D) All of the above
+ANSWER: D
+EXPLANATION: An entrepreneurial bootcamp develops basic skills, helps build a venture, and provides experience in teamwork.
+
+Q: What is the correct basic sequencing of entrepreneurial product or service development?
+A) Prototyping-Testing-Validation-Ideation-Commercialisation
+B) Prototyping-Ideation-Testing-Validation-Commercialisation
+C) Ideation-Validation-Testing-Prototyping-Commercialisation
+D) Ideation-Prototyping-Testing-Validation-Commercialisation
+ANSWER: D
+EXPLANATION: The basic sequence begins with ideation, followed by prototyping, testing, validation, and commercialisation.
+
+Q: Which of the following is the most striking example of creating a new business model through digitization of a conventional industry?
+A) Whirlpool and White Goods
+B) Uber and Ride Handling
+C) Dabur and Fruit juices
+D) Maruti and Passenger cars
+ANSWER: B
+EXPLANATION: Uber uses a digital platform to connect riders and drivers, transforming the conventional ride-hailing business model.
+
+Q: Which of the following product developments signify design thinking?
+A) A shopping cart as compared to a shopping basket
+B) A strolly (with wheels) as compared to a suitcase (without wheels)
+C) A ready to eat food compared to processed food
+D) Any or All of the above
+ANSWER: D
+EXPLANATION: Design thinking focuses on user needs and improving usability, convenience, and the overall experience.
+
+Q: What could turn out to be the risks of prototype development?
+A) Trying to make-do with off-the-shelf components
+B) Chasing far-too futuristic technologies
+C) Obsession with optics to the disregard of functionality
+D) Any or all of the above
+ANSWER: D
+EXPLANATION: Prototype development can face risks from unsuitable components, impractical technologies, and prioritising appearance over functionality.

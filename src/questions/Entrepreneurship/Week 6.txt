@@ -1,0 +1,119 @@
+Q: Completely autonomous vehicle is an example of
+A) Inadequate perfection
+B) Inadequate innovation
+C) Imperfect innovation
+D) Perfect innovation
+ANSWER: D
+EXPLANATION: A completely autonomous vehicle represents the ideal of fully automated driving, according to the course's innovation framework.
+
+Q: Which industry in India has several hundreds of brands for the same generic product?
+A) Cycle industry
+B) Automobile industry
+C) Pharmaceutical industry
+D) None of the above
+ANSWER: C
+EXPLANATION: India's pharmaceutical industry has numerous brands selling medicines with the same generic ingredients.
+
+Q: Which of the following statements is relatively true?
+A) Design is only an integrator of different functionalities into one product
+B) Design is only a tool to promote different products with different functionalities
+C) Design can integrate as well as differentiate functionalities in one or more products
+D) None of the above
+ANSWER: C
+EXPLANATION: Design can combine multiple functions in one product or distinguish products through different features and experiences.
+
+Q: Which of the following statements is true because of automobile electrification and autonomous driving?
+A) There would be opportunities for several technology led startups in the new generation components
+B) Automobile electrification and autonomy are hyped up and offer little opportunity to start-ups
+C) New generation components can be easily done in the facilities of existing auto component makers
+D) All of the above
+ANSWER: A
+EXPLANATION: Electric and autonomous vehicles create opportunities in sensors, software, batteries, and other advanced components.
+
+Q: What can additive manufacturing do to the automobile industry?
+A) Add weight to components
+B) Make components with just the required amount of materials
+C) Improve look and feel
+D) None of the above
+ANSWER: B
+EXPLANATION: Additive manufacturing builds components layer by layer, helping reduce material waste and create optimised designs.
+
+Q: From mobile phones, the recovery of which of the following critical materials presents a technological challenge and a potential start-up opportunity?
+A) Steel
+B) Aluminium
+C) Cobalt
+D) Plastic
+ANSWER: C
+EXPLANATION: Cobalt is a valuable material used in many lithium-ion batteries, making its recovery from electronic waste important.
+
+Q: Speech recognition and NLP qualifies as
+A) Virtual reality
+B) Artificial reality
+C) Artificial intelligence
+D) Mixed reality
+ANSWER: C
+EXPLANATION: Speech recognition and natural language processing are AI technologies that enable computers to interpret human language.
+
+Q: According to the Five Economic Forces Model, strategy and structure should consider which forces as more primal than industrial forces?
+A) Technological forces
+B) Social forces
+C) Economic forces
+D) Competitive forces
+ANSWER: C
+EXPLANATION: In the course's model, economic forces are considered fundamental influences on organisational strategy and structure.
+
+Q: Modern products such as Toyota car and Apple iPhone are manufactured through:
+A) Individual country fully integrated production
+B) Globally networked production
+C) Only Chinese manufacture
+D) None of the above
+ANSWER: B
+EXPLANATION: Modern products rely on global supply chains involving suppliers, manufacturing, and assembly across multiple countries.
+
+Q: Just-in-time inventory system is aligned with
+A) Push-type demand system
+B) Pull-type demand system
+C) Econometric demand system
+D) Expert demand system
+ANSWER: B
+EXPLANATION: A pull system replenishes inventory in response to actual demand rather than producing based only on forecasts.
+
+Q: Which of these is a start-up opportunity due to automobile autonomy?
+A) Sensor and Imaging systems
+B) Artificial Intelligence and Machine Learning
+C) Onboard Computers and Navigators
+D) All of the above
+ANSWER: D
+EXPLANATION: Autonomous vehicles need sensors, imaging, AI, machine learning, and onboard computing technologies.
+
+Q: Smart grids require the following new equipment which could be a start-up technology innovation opportunity:
+A) Transformers
+B) Synchrophasers
+C) Computers
+D) None of the above
+ANSWER: B
+EXPLANATION: Synchrophasors provide time-synchronised measurements of electrical grid conditions, supporting real-time monitoring and control.
+
+Q: Start-ups can provide technological solutions to the undesirable side-effects of a high-consumption economy in the following areas:
+A) Plastic waste
+B) Electronic waste
+C) Depleting water resources
+D) All of the above
+ANSWER: D
+EXPLANATION: Start-ups can develop recycling technologies, e-waste recovery solutions, and water conservation systems.
+
+Q: Which technology comes immediately after GPS Navigation in the evolution of automobiles?
+A) Automatic Transmission
+B) Connected Vehicle
+C) Autonomous Vehicle
+D) Electric Autonomous Vehicle
+ANSWER: B
+EXPLANATION: Connected vehicles build on navigation technology by exchanging data with other vehicles, networks, and infrastructure.
+
+Q: Pull-type inventory system is also called:
+A) Go to market system
+B) Kaizen system
+C) Just in time system
+D) None of the above
+ANSWER: C
+EXPLANATION: Just-in-time inventory replenishes materials when needed, reducing excess stock and storage costs.

@@ -1,0 +1,119 @@
+Q: Which type of innovation do start-ups primarily focus on?
+A) Evolutionary Innovation
+B) Sustainable Innovation
+C) Disruptive Innovation
+D) Incremental Innovation
+ANSWER: C
+EXPLANATION: Start-ups often pursue disruptive innovation to introduce new solutions, business models, or markets.
+
+Q: “Every company that has tried to manage mainstream and disruptive businesses within a single organization failed.” This quote is from an article in HBR authored by:
+A) Eric Ries
+B) Joseph L Bower and Clayton M Christensen
+C) Michael Porter
+D) Peter Drucker
+ANSWER: B
+EXPLANATION: Joseph L. Bower and Clayton M. Christensen studied the challenges established companies face when managing disruptive innovation.
+
+Q: A defining acquisition of Google that took the company to leadership in mobile telephone industry was:
+A) YouTube
+B) Android
+C) Instagram
+D) Nest
+ANSWER: B
+EXPLANATION: Google's acquisition of Android helped it establish a major position in the mobile operating system market.
+
+Q: The pace of technology development in modern times is characterised as:
+A) Linear
+B) Progressive
+C) Non-linear
+D) Non-Progressive
+ANSWER: C
+EXPLANATION: Technological progress can accelerate through feedback loops and breakthroughs rather than proceeding at a constant rate.
+
+Q: Just as chips revolutionised computing in the past (and will continue to), in future one of the following will revolutionise a whole spectrum of industries.
+A) Radars
+B) Lidars
+C) Motors
+D) Smart Sensors
+ANSWER: D
+EXPLANATION: Smart sensors combine sensing with processing and connectivity, enabling automation and intelligent systems across industries.
+
+Q: In the Pioneering Leadership Model, which form of leadership is positioned at the top?
+A) Cost Leadership
+B) Differentiation Leadership
+C) Innovation Leadership
+D) Pioneering Advantage
+ANSWER: C
+EXPLANATION: Innovation leadership focuses on developing novel solutions and establishing new directions in the market.
+
+Q: Within the five technology forces, the power of operating systems is illustrated strikingly by the:
+A) Mobile phone industry
+B) Renewable energy industry
+C) Textile industry
+D) Mining industry
+ANSWER: A
+EXPLANATION: Mobile operating systems such as Android and iOS strongly influence applications, developers, and device ecosystems.
+
+Q: For outstanding product or service success, a company should have:
+A) Individual skills
+B) Departmental skills
+C) Alchemy of skills
+D) Assembly of skills
+ANSWER: C
+EXPLANATION: Outstanding results often require a complementary combination of skills working together across teams.
+
+Q: Which innovator strategy focuses on using new technologies to make aspirational ideas a reality?
+A) Experience Leadership
+B) Experimental Leadership
+C) Application Leadership
+D) Cost Leadership
+ANSWER: C
+EXPLANATION: Application leadership focuses on applying new technologies to turn ideas into practical products and services.
+
+Q: Fourth industrial revolution is characterized by:
+A) Division of labour
+B) Electricity
+C) Cyber-physical-biological systems
+D) Mass production
+ANSWER: C
+EXPLANATION: Industry 4.0 integrates digital, physical, and increasingly biological technologies into connected systems.
+
+Q: Amongst Global Unicorns, the most firms in Artificial Intelligence are from:
+A) USA
+B) China
+C) Japan
+D) Germany
+ANSWER: A
+EXPLANATION: The United States has a large concentration of AI start-ups and high-valued technology companies.
+
+Q: Which of the following two dimension-combinations defines a strategically outstanding firm?
+A) Innovation Intensity-Product Profitability
+B) Investment Intensity-Product Diversity
+C) People Intensity-Market Diversity
+D) None of the above
+ANSWER: A
+EXPLANATION: Strong innovation combined with product profitability can help a firm differentiate itself and sustain commercial success.
+
+Q: Which of the following countries figures among the Top 10 in terms of Global Innovation Index?
+A) Netherlands
+B) Russia
+C) Israel
+D) China
+ANSWER: C
+EXPLANATION: Israel is a leading innovation economy and has ranked among the top countries in the Global Innovation Index.
+
+Q: Which of the following is an IoT-based clean drinking water supply solution for villages?
+A) Chimple
+B) Dost Education
+C) Aquasafi
+D) Simpli Blood
+ANSWER: C
+EXPLANATION: Aquasafi is associated with water purification and monitoring solutions designed to improve access to safe drinking water.
+
+Q: Every innovative new product requires multiple startup innovations. Which of the following is a recent innovative new product?
+A) Facsimile
+B) Drone
+C) Laptop
+D) Invertor
+ANSWER: B
+EXPLANATION: Drones combine technologies such as sensors, control systems, batteries, and wireless communication to enable new applications.

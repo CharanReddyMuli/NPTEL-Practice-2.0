@@ -1,0 +1,119 @@
+Q: Which of the following is a financial strategy decision?
+A) Diversification strategy decision
+B) Integration strategy decision
+C) Dividend decision
+D) Recruitment strategy decision
+ANSWER: C
+EXPLANATION: Dividend decisions determine how much of a company's earnings should be distributed to shareholders versus retained in the business.
+
+Q: The following is important for smooth and prudential conduct of a company’s operations:
+A) Periodic equity infusion
+B) Debt on tap
+C) Net positive cash flow from operations
+D) None of the above
+ANSWER: C
+EXPLANATION: Positive operating cash flow helps a company pay expenses and maintain sustainable operations.
+
+Q: In the early phases of a start-up (say, ideation and prototyping), a start-up usually receives:
+A) Angel funding, typically a form of seed-stage funding
+B) Venture capital funding
+C) Private equity funding
+D) Public issue funding
+ANSWER: A
+EXPLANATION: Angel investors often provide early-stage capital to help founders develop and validate their ideas.
+
+Q: Which of the following statements is true?
+A) Over the last few years, there has been an increased investor interest in the Indian start-ups
+B) Over the last few years, there has been a decreased increased investor interest in the Indian start-ups
+C) Over the last few years, there has been a decline in the number of Unicorn Indian start-ups
+D) Over the last few years, there has been no diversification in the Indian start-up domains
+ANSWER: A
+EXPLANATION: Investor interest in Indian start-ups expanded significantly over recent years, although investment levels fluctuate over time.
+
+Q: One of the most striking examples of a major global corporate transaction involving a strategic investment in an Indian start-up has been:
+A) Snapdeal
+B) Practo
+C) Walmart-Flipkart
+D) Urban Ladder
+ANSWER: C
+EXPLANATION: Walmart acquired a majority stake in Flipkart in a major global retail transaction announced in 2018.
+
+Q: Wipro Founder supports start-ups through:
+A) Catamaran
+B) Premji Invest
+C) Wipro itself
+D) None of the above
+ANSWER: B
+EXPLANATION: Premji Invest is the investment firm associated with Wipro founder Azim Premji and his family.
+
+Q: IIT Madras Research Park is primarily a:
+A) Leading plug and play incubator
+B) Leading accelerator
+C) Leading angel investor
+D) Leading R&D laboratory
+ANSWER: A
+EXPLANATION: IIT Madras Research Park provides infrastructure and an ecosystem that support research, innovation, and start-ups.
+
+Q: Government of India directly encourages and supports start-ups financially and procedurally through:
+A) Startup India Platform
+B) Banks
+C) Regional Rural Banks
+D) Microfinance Institutions
+ANSWER: A
+EXPLANATION: The Startup India initiative provides recognition, information, and access to support schemes for eligible start-ups.
+
+Q: The Government of India has established a specialised funding institution to facilitate financing for micro enterprises and small businesses. This institution is called:
+A) Indifi
+B) HUDCO
+C) MUDRA
+D) Kinara
+ANSWER: C
+EXPLANATION: MUDRA supports financing for micro and small businesses through lending institutions.
+
+Q: A pitch deck is a vital vehicle for the start-up founders to engage with all stakeholders, more specifically:
+A) Its employees
+B) The governments
+C) The investors
+D) The suppliers and vendors
+ANSWER: C
+EXPLANATION: A pitch deck communicates the business model, market opportunity, financial outlook, and funding requirements to investors.
+
+Q: In India, most start-up investments by value in recent years have been made in which sector?
+A) Artificial intelligence
+B) E-commerce
+C) Medtech
+D) Edutech
+ANSWER: B
+EXPLANATION: E-commerce has historically attracted substantial start-up investment in India. The intended answer may depend on the course's reference period.
+
+Q: Among the following, which class of investors would typically have the longest investment horizon?
+A) Angel investors
+B) Venture capitalists
+C) Private equity investors
+D) None of the above
+ANSWER: C
+EXPLANATION: Private equity investors typically invest over several years, often focusing on long-term business growth and value creation.
+
+Q: MUDRA Bank finances:
+A) Large companies
+B) Micro enterprises
+C) NGOs
+D) Personal consumption
+ANSWER: B
+EXPLANATION: MUDRA supports loans for micro enterprises and small businesses through eligible lending institutions.
+
+Q: Grameen Bank, Bangladesh, is famous for ushering in:
+A) Alternative Investment Fund movement
+B) Private equity movement
+C) Microfinance movement
+D) Equipment financing
+ANSWER: C
+EXPLANATION: Grameen Bank pioneered microcredit and helped expand access to financial services for low-income communities.
+
+Q: Which of the following recognizes the time value of money?
+A) Discounted cash flow
+B) Simple payback
+C) Accounting rate of return
+D) Bank interest rest
+ANSWER: A
+EXPLANATION: Discounted cash flow converts future cash flows into present values using a discount rate, accounting for the time value of money.

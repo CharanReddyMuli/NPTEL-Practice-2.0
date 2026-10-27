@@ -1,0 +1,119 @@
+Q: Computer software gets typically commercialised as:
+A) Only B2B
+B) Only B2C
+C) Both B2B and B2C
+D) None of the above
+ANSWER: C
+EXPLANATION: Software can be sold to businesses (B2B) as well as individual consumers (B2C).
+
+Q: Start-ups become unicorns with their focus on:
+A) Stable profits even at low scale
+B) Rapid revenue growth and high market share
+C) High pricing
+D) None of the above
+ANSWER: B
+EXPLANATION: Start-ups often pursue rapid growth and market expansion to achieve high valuations, although unicorn status specifically means a private start-up valuation of at least $1 billion.
+
+Q: Successful commercialisation rests on which of the following?
+A) Demand creation
+B) Demand fulfillment
+C) Customer loyalty
+D) All of the above
+ANSWER: D
+EXPLANATION: Commercial success depends on generating demand, fulfilling customer needs, and building customer loyalty.
+
+Q: A disruptive innovation is a potent combination of:
+A) High technology and Low cost
+B) Creative business model and High technology
+C) Creative business model and low cost
+D) High technology, Low cost and Creative business model
+ANSWER: D
+EXPLANATION: The course framework describes disruption as combining technology, affordability, and an innovative business model.
+
+Q: In the personal computer industry, disruption was hastened by:
+A) Look and feel of the computers
+B) Computer languages
+C) Exponential increase in processing power of the chips
+D) Input-Output media
+ANSWER: C
+EXPLANATION: Rapid improvements in chip processing power helped make personal computers increasingly capable and affordable.
+
+Q: Many of the Indian unicorns are based on:
+A) Contract manufacture
+B) Contract research
+C) Digital business models
+D) Franchising overseas rights
+ANSWER: C
+EXPLANATION: Many Indian unicorns use digital platforms and technology-driven business models to scale rapidly.
+
+Q: What is not common between Amazon.com and Flipkart?
+A) Both started with online book selling in the respective starting jurisdictions
+B) Both are now in India as private companies
+C) Both now cater to e-commerce in India
+D) None of the above
+ANSWER: D
+EXPLANATION: The quiz's accepted answer is None of the above, indicating that it treats all three statements as common features.
+
+Q: Because of Covid-19 pandemic, start-ups in the following industry were adversely affected:
+A) E-Commerce
+B) Travel and hospitality
+C) Medtech
+D) Food delivery
+ANSWER: B
+EXPLANATION: Travel restrictions and lockdowns severely affected travel and hospitality businesses during the pandemic.
+
+Q: Ninjacart is a successful start-up that addressed the following creatively and comprehensively:
+A) E-Commerce
+B) Farm produce supply chain
+C) Gaming
+D) Food delivery
+ANSWER: B
+EXPLANATION: Ninjacart uses technology and logistics to improve the supply chain connecting farmers, businesses, and retailers.
+
+Q: In the granulated stages of commercialisation, which stage primarily ensures that the manufactured product meets the required standards before reaching the distribution network?
+A) Supply Chain
+B) Quality Check
+C) Sales and Collections
+D) Service and Customer Support
+ANSWER: B
+EXPLANATION: Quality checks verify that manufactured products meet the required standards before distribution.
+
+Q: What are the essential parameters for successful commercialisation?
+A) Desirability of the product for the customer
+B) Feasibility to design and manufacture the product by the start-up
+C) Viability of the product for the customer as well as company
+D) All of the above
+ANSWER: D
+EXPLANATION: Successful commercialisation requires customer desirability, technical feasibility, and business viability.
+
+Q: Which of the following represent the different type/types of markets:
+A) Evolved market
+B) Evolving market
+C) Mass market
+D) All of the above
+ANSWER: D
+EXPLANATION: Markets may be classified as evolved, evolving, or mass markets depending on the framework used.
+
+Q: Which of the following can cause the disruption
+A) Shifting consumer preferences
+B) Integration of completely unconnected products
+C) Public policies
+D) All of the above
+ANSWER: D
+EXPLANATION: Consumer preferences, unexpected product combinations, and policy changes can all contribute to market disruption.
+
+Q: A start-up company is called Unicorn when:
+A) The start-up is valued over 1 Billion rupees
+B) The start-up is valued over 1 Billion dollars
+C) The start-up is valued over 100 Billion rupees
+D) The start-up is valued over 100 Billion dollars
+ANSWER: B
+EXPLANATION: A unicorn is a privately held start-up valued at $1 billion or more.
+
+Q: Which of the following Indian start-ups is rated as the world’s largest independent mobile advertising platform?
+A) InMobi
+B) Enlitic
+C) Zoho
+D) Practo
+ANSWER: A
+EXPLANATION: InMobi is an Indian-founded technology company known for its mobile advertising platform.

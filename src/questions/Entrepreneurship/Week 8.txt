@@ -1,0 +1,119 @@
+Q: PISA stands for:
+A) Programme for International Start-up Assessment
+B) Programme for International Student Assessment
+C) Programme for Indian Student Assessment
+D) Programme for Indian Start-up Assessment
+ANSWER: B
+EXPLANATION: PISA is the OECD's Programme for International Student Assessment, which evaluates students' skills and knowledge.
+
+Q: Indian Government’s Make in India thrust is expected to benefit from India’s capabilities in:
+A) Start-ups
+B) Software
+C) Frugal engineering
+D) None of the above
+ANSWER: C
+EXPLANATION: Frugal engineering focuses on developing effective, affordable solutions while using resources efficiently.
+
+Q: Which of the following is a key measure for assessing the impact of an entrepreneurial ecosystem?
+A) Number of start-ups created
+B) Commercial success
+C) Industry linkages
+D) All of the above
+ANSWER: D
+EXPLANATION: A strong entrepreneurial ecosystem can be assessed through start-up creation, business outcomes, and industry collaboration.
+
+Q: Start-ups have a great opportunity to contribute to the ushering in of:
+A) Circular economy
+B) Declining economy
+C) Volatile economy
+D) None of the above
+ANSWER: A
+EXPLANATION: Start-ups can support a circular economy through reuse, repair, recycling, and more efficient resource use.
+
+Q: According to the dominant-discipline approach, start-ups can be specialised around which combination of disciplines?
+A) Science, technology, mathematics and engineering
+B) Finance, marketing, HR and operations
+C) Arts, history, commerce and law
+D) Economics, sociology, psychology and political science
+ANSWER: A
+EXPLANATION: The dominant-discipline approach can focus on STEM capabilities to build technology-driven start-ups.
+
+Q: Globally, the following US universities are the most famous ones for nurturing a strong and vibrant entrepreneurial ecosystem:
+A) Arizona and Georgia
+B) Stanford and MIT
+C) Harvard and Columbia
+D) Yale and Michigan
+ANSWER: B
+EXPLANATION: Stanford and MIT are widely recognised for their strong technology, innovation, and entrepreneurship ecosystems.
+
+Q: To lead in analytics based start-ups, one needs a strong base of:
+A) Arts
+B) Geology
+C) Mathematics
+D) History
+ANSWER: C
+EXPLANATION: Mathematics underpins statistics, probability, modelling, and other core analytics techniques.
+
+Q: What is a Founder’s Dilemma?
+A) Which product to choose
+B) How much to invest
+C) When to transfer leadership to professionals
+D) Where to sell
+ANSWER: C
+EXPLANATION: The founder's dilemma includes deciding whether and when to retain control or hand leadership to professional managers.
+
+Q: Co-founders of a successful start-up usually have:
+A) Exactly same skills
+B) Opposing attitudes
+C) Complementary skills and attitudes
+D) Same family lineage
+ANSWER: C
+EXPLANATION: Complementary skills allow co-founders to cover different areas such as technology, business, operations, and sales.
+
+Q: The succession sagas at Tata Group and Infosys emphasise that for harmonious transition when founders are still the investors or statured leaders, harmony is ensured by:
+A) A complete break with the past
+B) Having all key decisions formally vetted by the founders
+C) Change with Continuity
+D) None of the above
+ANSWER: C
+EXPLANATION: Change with continuity balances organisational renewal with the preservation of valuable culture, values, and experience.
+
+Q: The Government of India had a goal of making India a ______ economy by 2025.
+A) A 3 trillion dollar economy
+B) A 5 trillion dollar economy
+C) A 7 trillion dollar economy
+D) A 9 trillion dollar economy
+ANSWER: B
+EXPLANATION: India set a policy ambition to become a $5 trillion economy. The 2025 date was a target, not confirmation that the goal was achieved by then.
+
+Q: Which of the following Indian educational institutions are featured in the QS World University Rankings?
+A) Indian Institute of Technology Madras
+B) Indian Institute of Technology Bombay
+C) Indian Institute of Science Bangalore
+D) All of the above
+ANSWER: D
+EXPLANATION: IIT Madras, IIT Bombay, and IISc Bengaluru have all appeared in QS university rankings.
+
+Q: As entrepreneurial firms grow into mainstream companies, smooth leadership transitions become essential. Which of the following founder-led firms has experienced challenges during leadership transition?
+A) Wipro
+B) HCL Tech
+C) Infosys
+D) Reliance
+ANSWER: C
+EXPLANATION: Infosys has experienced public leadership-transition challenges involving its founders and later leadership.
+
+Q: According to the course material, approximately how many start-ups has the IIT Madras Incubation Cell incubated?
+A) 10 start-ups
+B) 50 start-ups
+C) 100 start-ups
+D) 200 start-ups
+ANSWER: D
+EXPLANATION: The likely intended course answer is 200 start-ups. The actual cumulative number changes over time, so use the course's reference period.
+
+Q: Which of the following companies had a co-founder return to a leadership role after stepping away from the company?
+A) General Electric and Whirlpool
+B) Apple and Dell
+C) Ford Motor and Goodyear
+D) Microsoft and FedEx
+ANSWER: B
+EXPLANATION: Steve Jobs returned to Apple after leaving the company, and Michael Dell returned to lead Dell after a period away from the CEO role.

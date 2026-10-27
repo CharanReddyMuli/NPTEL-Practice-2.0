@@ -1,0 +1,119 @@
+Q: An effective Ideation facilitator would ideally be:
+A) A computer analyst
+B) An empathetic and creative thinker
+C) A time conscious manager
+D) A seasoned administrator
+ANSWER: B
+EXPLANATION: An effective facilitator understands people's perspectives and encourages creative thinking.
+
+Q: What is a native prototype?
+A) An improved product that is a hybrid of new and existing innards
+B) A novel product developed on a zero-base approach
+C) A product that reflects ethic nativity
+D) A complete clone of an existing product
+ANSWER: B
+EXPLANATION: A native prototype is defined here as a novel product developed from a zero-base approach.
+
+Q: Which of the following is not a Smart Wearable?
+A) Smart watch
+B) Smart glass
+C) Smart treadmill
+D) Smart shoe
+ANSWER: C
+EXPLANATION: A smart treadmill is generally fitness equipment rather than a wearable device.
+
+Q: An integrated model of prototype development requires:
+A) Sequential design and manufacture
+B) Diversified design and manufacture
+C) Concurrent design and manufacture
+D) Completely in-house manufacture
+ANSWER: C
+EXPLANATION: Integrated prototype development involves design and manufacturing activities happening concurrently.
+
+Q: Under the World Trade Organization’s TRIPS Agreement, patent protection should be available and respected across:
+A) Only the state granting the patent
+B) All signatory states
+C) Signatory as well as non-signatory states
+D) Neither signatory nor non-signatory states
+ANSWER: B
+EXPLANATION: TRIPS establishes minimum intellectual property protection standards for WTO members. Patents are territorial, however, so a patent granted in one country does not automatically apply in every member country.
+
+Q: Which patent of Amazon granted in 1999 enabled the company dominate online book retailing?
+A) “One-click” online purchase system
+B) “One-click” offline purchase system
+C) “One-click” page search system
+D) None of the above
+ANSWER: A
+EXPLANATION: Amazon's one-click purchasing patent covered a streamlined online purchasing method.
+
+Q: For the performance testing of a prototype to happen, which of the following is not required as much as the others?
+A) Product specifications
+B) Testing methods
+C) Testing equipment
+D) External look and feel of the product
+ANSWER: D
+EXPLANATION: Performance testing primarily evaluates function and specifications rather than external appearance.
+
+Q: Which of the following is a variable experience product?
+A) Smart phone
+B) Viewing movies from a movie library
+C) Drinking water from a purifier
+D) A luxury fashion accessory
+ANSWER: B
+EXPLANATION: A movie library offers different experiences depending on the content selected by the viewer.
+
+Q: The Minimum Viable Product (MVP) version of a smart watch, beyond its timekeeping function, must be:
+A) Its colour scheme
+B) Its strap
+C) Its dial face
+D) Its health parameter tracking
+ANSWER: D
+EXPLANATION: Health parameter tracking provides a core additional function that distinguishes a smart watch from a conventional watch.
+
+Q: Field testing of a product should be based on:
+A) Repeat of lab testing
+B) Simulated operating conditions
+C) Destruction testing
+D) Lifelong testing
+ANSWER: B
+EXPLANATION: Simulated operating conditions help evaluate product behaviour in realistic use scenarios.
+
+Q: What is the primary use of an Ideation Workshop?
+A) Serve as a workshop for designing and developing prototypes
+B) Serve as a platform for identifying problems and developing creative solutions
+C) Serve as a methodology of formal day to day departmental meetings
+D) None of the above
+ANSWER: B
+EXPLANATION: Ideation workshops help participants identify problems, generate ideas, and develop creative solutions.
+
+Q: In a smart wearable which of the following is likely to be a fundamental, first step, prototype?
+A) Circuit engineering prototype
+B) Communication prototype
+C) Commercial prototype
+D) All of the above
+ANSWER: A
+EXPLANATION: A circuit engineering prototype can establish the basic electronic functionality before communication features and commercial refinement.
+
+Q: Patent granted for an article of manufacture is called a:
+A) Product patent
+B) Process patent
+C) Composition of matter patent
+D) All of the above
+ANSWER: A
+EXPLANATION: A product patent protects an invention embodied in a product, while process patents protect methods or processes.
+
+Q: What is the definition of value proposition for a customer?
+A) Costs and valuation of technology
+B) Valuation of the company that manufactures the product
+C) A proposal by the company how to value a product
+D) A set of gains and benefits from the product for the customer
+ANSWER: D
+EXPLANATION: A value proposition explains the benefits and value a product offers to its customers.
+
+Q: Validation accomplishes the following with respect to a product or service:
+A) Establishes the basic product premise at the hands of users
+B) Establishes the level of customer fulfillment
+C) Provides guidance on the nexus between the product and the business
+D) All of the above
+ANSWER: D
+EXPLANATION: Validation checks product assumptions with users, measures customer needs and satisfaction, and helps assess business viability.

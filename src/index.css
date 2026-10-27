@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-gray-50 text-gray-900 antialiased dark:bg-gray-950 dark:text-gray-100; }
+
+/* ---------- Quiz animations ---------- */
+@keyframes q-enter { from { opacity: 0; transform: translateX(24px); } to { opacity: 1; transform: none; } }
+@keyframes opt-enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes pop { 0% { transform: scale(1); } 40% { transform: scale(1.35); } 100% { transform: scale(1); } }
+@keyframes correct-pop {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.55); }
+  40% { transform: scale(1.03); }
+  100% { transform: scale(1); box-shadow: 0 0 0 14px rgba(34, 197, 94, 0); }
+}
+@keyframes wrong-shake {
+  0%, 100% { transform: translateX(0); }
+  15% { transform: translateX(-9px); }
+  30% { transform: translateX(8px); }
+  45% { transform: translateX(-6px); }
+  60% { transform: translateX(5px); }
+  75% { transform: translateX(-3px); }
+}
+@keyframes icon-in { from { opacity: 0; transform: scale(0.2) rotate(-90deg); } to { opacity: 1; transform: none; } }
+@keyframes expl-enter { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
+@keyframes flicker { 0%, 100% { transform: scale(1) rotate(0); } 25% { transform: scale(1.12) rotate(-5deg); } 60% { transform: scale(0.96) rotate(4deg); } }
+@keyframes ready-pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.5); } 50% { box-shadow: 0 0 0 8px rgba(99, 102, 241, 0); } }
+@keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+
+.q-enter { animation: q-enter 380ms cubic-bezier(0.22, 1, 0.36, 1) both; }
+.opt-enter { animation: opt-enter 420ms cubic-bezier(0.22, 1, 0.36, 1) both; }
+.opt-correct { animation: correct-pop 650ms ease-out; }
+.opt-wrong { animation: wrong-shake 450ms ease-in-out; }
+.icon-in { animation: icon-in 350ms cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+.expl-enter { animation: expl-enter 320ms ease-out both; }
+.streak-pop { animation: pop 300ms ease-out; }
+.flame-hot { animation: flicker 900ms ease-in-out infinite; filter: drop-shadow(0 0 6px rgba(249, 115, 22, 0.8)); }
+.btn-ready { animation: ready-pulse 1.4s ease-out infinite; }
+.progress-fill {
+  background-image: linear-gradient(90deg, #6366f1, #8b5cf6, #6366f1);
+  background-size: 200% 100%;
+  animation: shimmer 3s linear infinite;
+}
+
+/* ---------- Home animations ---------- */
+@keyframes fade-up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+.fade-up { animation: fade-up 450ms cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+/* ---------- Result animations ---------- */
+@keyframes ring-fill { to { stroke-dashoffset: var(--offset); } }
+.ring-fill { animation: ring-fill 1.2s cubic-bezier(0.22, 1, 0.36, 1) 0.25s forwards; }
+
+@keyframes confetti-fall {
+  0% { transform: translate3d(0, 0, 0) rotate(0deg); opacity: 1; }
+  100% { transform: translate3d(var(--drift), 110vh, 0) rotate(720deg); opacity: 0.9; }
+}
+.confetti { position: absolute; top: -16px; border-radius: 2px; animation: confetti-fall linear forwards; }
+
+@media (prefers-reduced-motion: reduce) {
+  .confetti { display: none; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0ms !important;
+  }
+}
