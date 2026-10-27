@@ -1,4 +1,14 @@
-import { AlertCircle, ChevronDown, ChevronRight, FileText, FolderOpen, Play } from 'lucide-react'
+import {
+  AlertCircle,
+  ChevronDown,
+  ChevronRight,
+  FileText,
+  FolderOpen,
+  Play,
+  Github,
+  Linkedin,
+  Globe,
+} from 'lucide-react'
 import type { CSSProperties } from 'react'
 import type { Folder, QuizFile } from '../lib/library'
 
@@ -15,6 +25,59 @@ interface Props {
 
 const delay = (i: number): CSSProperties => ({ animationDelay: `${i * 60}ms` })
 
+function SocialLinks() {
+  return (
+    <nav
+      aria-label="Social profiles"
+      className="flex items-center gap-2"
+    >
+      <a
+        href="https://github.com/charanreddymuli"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="GitHub"
+        title="GitHub"
+        className="flex h-10 w-10 items-center justify-center rounded-xl border border-gray-200 text-gray-600 transition hover:border-indigo-400 hover:bg-indigo-50 hover:text-indigo-600 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+      >
+        <Github size={19} />
+      </a>
+
+      <a
+        href="https://www.linkedin.com/in/charanreddymuli/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="LinkedIn"
+        title="LinkedIn"
+        className="flex h-10 w-10 items-center justify-center rounded-xl border border-gray-200 text-gray-600 transition hover:border-indigo-400 hover:bg-indigo-50 hover:text-indigo-600 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+      >
+        <Linkedin size={19} />
+      </a>
+
+      <a
+        href="https://leetcode.com/u/Charanreddy0007/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="LeetCode"
+        title="LeetCode"
+        className="flex h-10 w-10 items-center justify-center rounded-xl border border-gray-200 text-gray-600 transition hover:border-indigo-400 hover:bg-indigo-50 hover:text-indigo-600 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+      >
+        <span className="text-xs font-bold">LC</span>
+      </a>
+
+      <a
+        href="https://charanreddy.qzz.io/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Portfolio"
+        title="Portfolio"
+        className="flex h-10 w-10 items-center justify-center rounded-xl border border-gray-200 text-gray-600 transition hover:border-indigo-400 hover:bg-indigo-50 hover:text-indigo-600 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800"
+      >
+        <Globe size={19} />
+      </a>
+    </nav>
+  )
+}
+
 export default function Home(p: Props) {
   const current = p.folders.find((f) => f.name === p.folder) ?? p.folders[0]
   const totalFiles = p.folders.reduce((n, f) => n + f.files.length, 0)
@@ -22,9 +85,17 @@ export default function Home(p: Props) {
 
   return (
     <main className="mx-auto max-w-5xl px-4 py-10">
-      <header className="fade-up pr-12">
-        <h1 className="text-3xl font-semibold tracking-tight">NPTEL Practice</h1>
-        <p className="mt-1 text-gray-500 dark:text-gray-400">Pick a folder and a week on the right, then practice one question at a time.</p>
+      <header className="fade-up flex flex-wrap items-start justify-between gap-4 pr-12">
+        <div>
+          <h1 className="text-3xl font-semibold tracking-tight">
+            NPTEL Practice
+          </h1>
+          <p className="mt-1 text-gray-500 dark:text-gray-400">
+            Pick a folder and a week on the right, then practice one question at a time.
+          </p>
+        </div>
+
+        <SocialLinks />
       </header>
 
       <div className="mt-8 grid gap-6 lg:grid-cols-[1fr_22rem]">
