@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import Home from './components/Home'
 import QuizScreen from './components/QuizScreen'
 import ThemeToggle from './components/ThemeToggle'
@@ -38,6 +39,7 @@ export default function App() {
           showExplanations={showExplanations}
           onExit={() => setActive(null)}
         />
+        <Analytics />
       </>
     )
   }
@@ -54,6 +56,7 @@ export default function App() {
         onShowExplanationsChange={setShowExplanations}
         onStart={setActive}
       />
+      <Analytics />
     </>
   )
 }
