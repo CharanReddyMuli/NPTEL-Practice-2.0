@@ -28,10 +28,10 @@ export default function App() {
 
   const toggle = <ThemeToggle dark={dark} onToggle={() => setDark((d) => !d)} />
 
-  if (active) {
-    return (
-      <>
-        {toggle}
+  return (
+    <>
+      {toggle}
+      {active ? (
         <QuizScreen
           key={active.id}
           file={active}
@@ -39,23 +39,18 @@ export default function App() {
           showExplanations={showExplanations}
           onExit={() => setActive(null)}
         />
-        <Analytics />
-      </>
-    )
-  }
-  return (
-    <>
-      {toggle}
-      <Home
-        folders={library}
-        folder={folder}
-        onFolderChange={setFolder}
-        shuffle={shuffle}
-        onShuffleChange={setShuffle}
-        showExplanations={showExplanations}
-        onShowExplanationsChange={setShowExplanations}
-        onStart={setActive}
-      />
+      ) : (
+        <Home
+          folders={library}
+          folder={folder}
+          onFolderChange={setFolder}
+          shuffle={shuffle}
+          onShuffleChange={setShuffle}
+          showExplanations={showExplanations}
+          onShowExplanationsChange={setShowExplanations}
+          onStart={setActive}
+        />
+      )}
       <Analytics />
     </>
   )
