@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Analytics } from '@vercel/analytics/react'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 import Home from './components/Home'
 import QuizScreen from './components/QuizScreen'
 import ThemeToggle from './components/ThemeToggle'
@@ -40,6 +41,7 @@ export default function App() {
           onExit={() => setActive(null)}
         />
         <Analytics />
+        <SpeedInsights />
       </>
     )
   }
@@ -57,6 +59,7 @@ export default function App() {
         onStart={setActive}
       />
       <Analytics />
+      <SpeedInsights />
     </>
   )
 }
